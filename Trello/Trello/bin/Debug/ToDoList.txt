@@ -1,0 +1,3 @@
+rezolvare=,D:\visual stuido\Trello\Trello\bin\Debug\resources\3668854_activities_dumbbell_gym_sport_icon.png 
+verificare=,D:\visual stuido\Trello\Trello\bin\Debug\resources\2730377_character_game_gigantic_inkcontober_pakko_icon.png ,(nimic,|D:\visual stuido\Trello\Trello\bin\Debug\resources\211668_controller_b_game_icon.png ,(asdasd,|D:\visual stuido\Trello\Trello\bin\Debug\resources\3069185_book_education_learn_school_icon.png
+Scoala=,D:\visual stuido\Trello\Trello\bin\Debug\resources\2824449_apple_fruit_school_science_icon.png,(MVP,|D:\visual stuido\Trello\Trello\bin\Debug\resources\1337521_boy_game_go_play_pokemon_icon.png ,(ACC,|D:\visual stuido\Trello\Trello\bin\Debug\resources\6771582_drawing brush_education_learning_painting_school_icon.png 

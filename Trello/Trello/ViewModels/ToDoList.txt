@@ -1,0 +1,4 @@
+﻿Scoala: RC MVP
+Acasa: Cooking
+Sala:Biceps Triceps Picioare Abdomen Spate Trapez Umeri
+Masina:

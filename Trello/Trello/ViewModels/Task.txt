@@ -1,0 +1,5 @@
+﻿MVP:
+Lab1 Medium MinorTask 3/22/2023"
+Lab2 Medium none 0/0/0000
+Lab3 Medium MajorTask 3/21/2023
+Lab4 Medium MajorTask 3/25/2023

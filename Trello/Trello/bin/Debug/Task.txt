@@ -1,0 +1,19 @@
+Ceva:
+Inca High MajorTask 1/1/2029 false ,asskdasnda dja sdja dadajdasdjajfjajdnasdnalfaldfknvsja vjs
+verificare Medium MajorTask 4/25/2023 false ,nu stiu ce sa scriu
+nu_stiu Low MajorTask 12/4/2023 true ,Nici atat nu stiu dar voi stii
+MVP:
+Lab6 Medium MajorTask 9/9/2023 false ,asdasda
+Lab10 Low MajorTask 10/1/2021 false ,asdasdasda
+Lab8 Low MajorTask 4/28/2023 false ,sadasda
+Lab4 High MajorTask 4/25/2034 true ,Mvvm
+Lab5 High NotImportant 4/2/2023 true ,Another one
+Lab1 High MajorTask 4/25/2023 true  ,Mvvm
+Telefon:
+sdasd Low MajorTask 1/1/0001 true ,asda
+Aplicatie Low MajorTask 1/1/2023 true ,Cea mai smechera aplicatie
+sdas Low MajorTask 1/1/0001 false ,sdasd
+nimic:
+ploaie High MinorTask 4/29/2023 true ,asdasdasdasdadasdasdqsdassdasdassdasdasdasdasdasdasdasdasdasdasdsadassdasdsasdsasdasdasdasdassdasdasdasd
+rezolvare:
+altceva Medium MinorTask 10/23/2024 false ,altceva si inca ceva
